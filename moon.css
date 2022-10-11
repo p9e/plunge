@@ -31,36 +31,36 @@ nav {
 }
 
 .dim {
-  background: #111;
-  color: seashell;
+  background: darkviolet;
+  color: peachpuff;
 }
 
 .lit {
-  background: seashell;
-  color: #111;
+  background: peachpuff;
+  color: darkviolet;
 }
 
 @media (prefers-color-scheme: dark) {
   .reflect {
-    background: #111;
-    color: seashell;
+    background: darkviolet;
+    color: peachpuff;
   }
 
   .absorb {
-    background: seashell;
-    color: #111;
+    background: peachpuff;
+    color: darkviolet;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .reflect {
-    background: seashell;
-    color: #111;
+    background: peachpuff;
+    color: darkviolet;
   }
 
   .absorb {
-    background: #111;
-    color: seashell;
+    background: darkviolet;
+    color: peachpuff;
   }
 }
 
