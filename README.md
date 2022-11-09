@@ -1,5 +1,3 @@
-# [moon <br> template](https://github.com/webmural/moon)
+# [<sup>generate</sup>](https://github.com/p9e/plunge/generate) [plunge](https://github.com/p9e/plunge)
 
-* the moon is `dark` by default
-* the moon is `light` when reflecting the sun
-* [moon.css](moon.css) has [CSS](https://webmural.com/css) classes [you can explore](index.html) including `reflect` and `absorb`
+### <dfn>plunge</dfn> izza purple [<b>moon</b>](https://github.com/webmural/moon) `peachpuff` violet [mixture](moon.css)
